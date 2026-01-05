@@ -1,4 +1,4 @@
-#webhook = https://discord.com/api/webhooks/1457691651316121600/ZEfoCvufpGiAF8IC2cCeuIrmk_QH-ogzFwiCJiiwD2BVmufwtkpYNHkCXcFb8XhzWsve 
+
 from dotenv import load_dotenv
 load_dotenv()
 import os
